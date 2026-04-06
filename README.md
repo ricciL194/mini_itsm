@@ -36,7 +36,7 @@
 ### 1. 数据库初始化
 
 ```sql
-CREATE DATABASE mini_itsm CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+CREATE DATABASE mini_itsm CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
 ```
 
 ### 2. 后端启动
